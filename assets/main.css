@@ -180,12 +180,18 @@ section {
 	padding: 6rem 0 0 0;
 }
 
+.services p {
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
 .about-page img {
 	width: 10%;
 }
 
 .about-page {
 	background-color: #452536;
+	text-align: center;
 }
 
 .about-us {
@@ -204,14 +210,3 @@ section {
 .services {
 	padding-bottom: 3rem;
 }
-
-<div class="row">
-        <h5>Our Machines</h5>
-        <p>With just the touch of a button, every customized cup is individually brewed. Our machines use whole beans that are ground perfectly for every cup. 
-
-        The environmentally-friendly coffee puck- that is, the residue from the grounded espresso beans- is 100% biodegradable. Furthermore, the energy used to produce our beverage is far less than most office microwaves. As a socially responsible company, Mug Shot Coffee is committed to maximizing its energy efficiency in our machines and choosing socially responsible products.
-
-        Our machines are Italian made, and are among the most advanced and adaptable espresso systems available today. Our Series 525 machine accepts all Canadian coins, as well as Visa, Debit, MasterCard, American Express, Apple pay and Android pay. It also accepts tokens which can be redeemed for a free beverage. 
-
-        For more information on each individual machine, see our <a href="products.html">products page.</a> </p>
-      </div>

@@ -8,6 +8,18 @@ body {
 	max-height: 100%;
 }
 
+.about img {
+	width: 40%;
+}
+
+.about-icons {
+	padding-top: 100px;
+}
+
+.about h5 {
+	padding-top: 10px;
+}
+
 .products-page {
 		background-color: #452536;
 		color: #fff;

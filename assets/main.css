@@ -10,6 +10,20 @@ body {
 
 .products-page {
 		background-color: #452536;
+		color: #fff;
+		padding-bottom: 60px;
+}
+
+.products-page img {
+	width: 70%;
+}
+
+.products-page .machines-text {
+	font-size: 15px;
+}
+
+.products-page .machines {
+	padding-top: 60px;
 }
 
 .navbar-brand img {
@@ -185,7 +199,7 @@ section {
 }
 
 .services p {
-	padding-top: 20px;
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 

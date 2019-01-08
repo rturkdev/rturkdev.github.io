@@ -223,6 +223,14 @@ form {
 	.contact img {
 		display: none;
 	}
+
+	.about-icons {
+		display: none;
+	}
+
+	.about {
+		min-height: 500px;
+	}
 }
 
 section {

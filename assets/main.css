@@ -231,6 +231,14 @@ form {
 	.about {
 		min-height: 500px;
 	}
+
+	.products-page {
+		padding: 30px;
+	}
+
+	.machines img {
+		display: none;
+	}
 }
 
 section {

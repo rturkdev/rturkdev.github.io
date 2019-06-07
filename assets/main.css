@@ -1,5 +1,5 @@
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif !important;
 }
 
 .about-page img {
@@ -73,6 +73,10 @@ header  {
 
 h4 {
 	font-size: 15px;
+	padding-left: 30px;
+}
+
+h5 {
 	padding-left: 30px;
 }
 

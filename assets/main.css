@@ -47,7 +47,7 @@ body {
 }
 
 header  {
-	padding-top: calc(6rem + 72px);
+	padding-top: 6rem;
 	padding-bottom: 6rem;
 }
 

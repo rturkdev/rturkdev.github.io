@@ -182,6 +182,21 @@ section {
 	color: white;
 }
 
+.contact-us {
+	padding-top: 20px;
+	text-align: left;
+}
+
+.email-phone {
+	padding-left: 35px;
+	padding-top: 45px;
+}
+
+.email-phone h4 {
+	padding-bottom: 10px;
+	font-size: 1rem;
+}
+
 footer {
 	background-color: #E8E6E7;
 	padding: 5px 0;
@@ -241,6 +256,10 @@ form {
 	}
 
 	.machines img {
+		display: none;
+	}
+
+	.email-phone {
 		display: none;
 	}
 }
